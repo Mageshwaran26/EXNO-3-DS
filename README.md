@@ -55,6 +55,6 @@ np.sqrt(df["Highly positive skew"])
 ![image](https://github.com/user-attachments/assets/cae499e6-94b6-4dde-ba86-fc2d77618e62)
 ![image](https://github.com/user-attachments/assets/6be9c5c4-f7e1-4910-bea1-9c05b23b6fe2)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       the given data is transformed and processed
 
        
